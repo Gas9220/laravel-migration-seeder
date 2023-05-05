@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('page.main')
-<h1>Main</h1>
+<h1>{{ $hello }}</h1>
 @endsection
